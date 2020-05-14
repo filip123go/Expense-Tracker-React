@@ -1,3 +1,5 @@
+The project is live at : https://nervous-khorana-4104dc.netlify.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
